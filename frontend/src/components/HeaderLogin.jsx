@@ -1,5 +1,5 @@
 import logo from "../assets/images/logo.svg";
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router';
 
 const HeaderLogin = () => {
     return <div className="fixed top-0 left-0 flex justify-between items-center px-2 md:px-4 text-white h-14 w-screen bg-primary">
